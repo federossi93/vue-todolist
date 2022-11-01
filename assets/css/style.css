@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(160, 155, 157);
+}
+
+.active{
+    text-decoration: line-through;
+}
+
+.hide{
+    display: none;
+}
